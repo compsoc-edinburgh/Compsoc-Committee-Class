@@ -23,9 +23,6 @@
         { \@date }
     \end{center}
 
-    \global\let\@title\@empty
-    \global\let\title\relax
-
     \global\let\@date\@empty
     \global\let\date\relax
 }
